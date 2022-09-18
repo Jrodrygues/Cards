@@ -9,8 +9,6 @@ Projeto desenvolvido no evento da  Digital Innovation One Inc. ( DIO )
 
 Projeto construído no bootcamp DIO
 
-[🔗 Clique aqui para acessar]()
-
 
 ## 🛠 Tecnologias
 
