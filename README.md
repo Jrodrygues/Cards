@@ -4,9 +4,6 @@ Projeto desenvolvido no evento da  Digital Innovation One Inc. ( DIO )
 # Dio-Bootcamp-Chat
 Projeto desenvolvido no evento da  Digital Innovation One Inc. ( DIO )
 
-![preview](preview/preview.jpg)
-
-
 Projeto construído no bootcamp DIO
 
 
